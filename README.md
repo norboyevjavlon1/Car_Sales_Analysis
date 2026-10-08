@@ -31,7 +31,6 @@ Focuses on profitability by comparing actual selling prices against Market Value
 * **Dynamic Modifiers:** Built measures that respond interactively to the What-If slicer to project future revenue.
 
 ## 📸 Dashboard Screenshots
-*(Bu yerga loyihangiz skrinshotlarini qo'shing)*
 Overview<img width="1109" height="620" alt="image" src="https://github.com/user-attachments/assets/4ac8612a-94d6-44b5-a5da-f13554408855" />
 Brand & Model Deep<img width="1113" height="625" alt="image" src="https://github.com/user-attachments/assets/e8be2cc8-e9cd-48c6-bddf-3913e1f6edde" />
 Drillthrough Page<img width="1110" height="625" alt="image" src="https://github.com/user-attachments/assets/705f69df-c364-489b-8274-9b0b1e664fde" />
